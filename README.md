@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello GitHub 👋
+
+The best way to learn more about me is by visiting my [LinkedIn profile](https://www.linkedin.com/in/foresthandford/). I work at the Broad Institute. I'm also a volunteer programmer for [Employee Empowerment](https://github.com/EmployeeEmpowerment/EmpEmp/).
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/foresthandford/)
+- 😄 Pronouns: She/Her/Hers
 
 <!--
 **ForestJay/ForestJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
