@@ -1,6 +1,6 @@
 ### Hello GitHub 👋
 
-The best way to learn more about me is by visiting my [LinkedIn profile](https://www.linkedin.com/in/foresthandford/). I work at the [Broad Institute](https://www.broadinstitute.org/). I'm also a volunteer programmer for [Employee Empowerment](https://github.com/EmployeeEmpowerment/EmpEmp/). I've published a few books which you can learn about on [GoodReads](https://www.goodreads.com/author/show/17255626.Forest_J_Handford).
+The best way to learn more about me is by visiting my [LinkedIn profile](https://www.linkedin.com/in/foresthandford/). I'm currently looking for a new engineering leadership. I just finished working at the [Broad Institute](https://www.broadinstitute.org/) and prior to that I worked at [Affectiva](https://affectiva.com). I'm also a volunteer programmer for [Employee Empowerment](https://github.com/EmployeeEmpowerment/EmpEmp/). I've published a few books which you can learn about on [GoodReads](https://www.goodreads.com/author/show/17255626.Forest_J_Handford).
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/foresthandford/)
 - 😄 Pronouns: She/Her/Hers
